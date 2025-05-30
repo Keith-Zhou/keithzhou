@@ -8,8 +8,9 @@ In the meantime, here are some group project repos I contributed to (more will b
 
 - [Study.AI](https://github.com/Keith-Zhou/cruzhacks24) – Web application developed at UCSC CruzHacks 2024 to support personalized learning.
 
-- [Turtle Recon](https://github.com/HershR/Turtle_Recon_Prototype) – Minigame developed in Unity to raise awareness about climate change.  
-  💡 Contributed to: Dialogue UI system, tutorial flow, and scene transitions.
+- [Turtle Recon](https://github.com/HershR/Turtle_Recon_Prototype) – An underwater-themed Unity minigame where players control a turtle navigating ocean hazards and collecting tokens, developed to raise awareness about climate change.  
+  Contributed to: Dialogue UI system, tutorial flow, and scene transitions — including features in previous builds and ongoing integration into the current version.  
+  🎮 [Playable demo (early build)](https://apileofbacon.itch.io/green-city-manager)
 
 > Other projects listed in my resume.
 
